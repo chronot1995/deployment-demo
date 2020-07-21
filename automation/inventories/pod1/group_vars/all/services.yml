@@ -18,4 +18,4 @@ ntp:
     - 1.cumulusnetworks.pool.ntp.org
     - 2.cumulusnetworks.pool.ntp.org
     - 3.cumulusnetworks.pool.ntp.org
-    - time.google.com
+    - pool.ntp.org
